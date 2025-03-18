@@ -36,7 +36,7 @@ The project uses IPL match and ball-by-ball data, extracting key features like t
 - Deploy as a web app using Flask or FastAPI.  
 
 ## 📌 Contributors  
-- **Sanak Aich Bhowmick** ([@yourgithubhandle](https://github.com/sanakaich))  
+- **Sanak Aich Bhowmick** ([@sanakaich](https://github.com/sanakaich))  
 
 ## 🏆 License  
 This project is open-source under the **MIT License**.  
